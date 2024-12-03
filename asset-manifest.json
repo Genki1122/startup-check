@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/startup-check/static/js/main.bc30180a.js",
+    "index.html": "/startup-check/index.html",
+    "main.bc30180a.js.map": "/startup-check/static/js/main.bc30180a.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.bc30180a.js"
+  ]
+}
